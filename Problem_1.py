@@ -15,4 +15,3 @@ print(x)
 y = [s for s in range(1001) if not s % 3 or not s % 5]
 print(sum(y))
 
-#end
